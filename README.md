@@ -7,3 +7,9 @@
 3- Daire alan : circleArea ve daire çevre : circleCircumference fonksiyonları içeren ve consola sonuçları yazdıran circle.js dosyası oluşturunuz.
 module.exports yöntemi ile fonksiyonları oluştururken export ediniz.
 require ve object destructing kullanarak index.js dosyasında yarıçap (r) 5 olacak şekilde ekran çıktısını alınız.[Çözüme git](./NODEJS-ODEVLER/odev3/circle.js)
+
+4- Node.js FS Modülü kullanarak CRUD işlemleri yapacağız.[Çözüme git](./NODEJS-ODEVLER/odev4/index.js)
+- employees.json dosyası oluşturalım ve içerisine {"name": "Employee 1 Name", "salary": 2000} verisini ekleyelim. (CREATE)
+- Bu veriyi okuyalım. (READ)
+- Bu veriyi güncelleyelim.
+- Dosyayı silelim.
