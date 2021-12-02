@@ -13,3 +13,10 @@ require ve object destructing kullanarak index.js dosyasında yarıçap (r) 5 ol
 - Bu veriyi okuyalım. (READ)
 - Bu veriyi güncelleyelim.
 - Dosyayı silelim.
+
+5- Kendi bilgisayarımızda aşağıdaki özellikleri kullanarak sunucumuzu yazalım. [Çözüme git](./NODEJS-ODEVLER/odev5/server.js)
+
+- createServer metodunu kullanacağız.
+- index, hakkimda ve iletisim sayfaları oluşturalım.
+- Sayfalara içerik olarak xxx sayfasına hoşgeldiniz şeklinde h2 başlıkları yazdıralım.
+- port numarası olarak 5000'i kullanalım.
